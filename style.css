@@ -35,15 +35,6 @@ img:hover {
     transition: 3s linear;
 }
 
-.great {
-    background-image: linear-gradient(rgb(1, 172, 1),lightgreen,white);
-    border-radius: 100px;
-}
-
-.mda {
-    background-image: linear-gradient(red,rgb(252, 126, 126),white);
-    border-radius: 100px;
-}
 
 span {
     background-color: lemonchiffon;
