@@ -1,7 +1,4 @@
 <html>
-<head>
-    <title> svk-94 </title>
-<link rel="stylesheet"href="style.css">
     <body>
         <header> 
             <h2> svk-94 </h2>
@@ -41,4 +38,4 @@
               <li> Настильность траектории полета дозвуковой пули ограничивает эффективную дальность стрельбы </li> 
           </ul>
     </body>
-    </html>
+</html>
