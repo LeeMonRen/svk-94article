@@ -1,5 +1,9 @@
 <html>
     <body>
+        <head>
+            <link rel="style sheet" href="style.css">
+            <title> vsk-94 </title>
+        </head>
         <header> 
             <h2> vsk-94 </h2>
         </header>
